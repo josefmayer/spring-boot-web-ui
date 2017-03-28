@@ -6,11 +6,11 @@ Spring Boot, MVC, InMemoryHashMap
 
 ### Steps
 ##### Build and Run Application
-via spring-boot-maven-plugin:  
+via spring-boot-maven-plugin:
 *mvn spring-boot:run*
 
 ##### Build jar, Run jar
-*mvn package*
+*mvn package*  
 *java -jar target/jar-name.nar*
 
 ##### Access Application
